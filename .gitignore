@@ -1,0 +1,10 @@
+# Ignore Eclipse
+.checkstyle
+.project
+.classpath
+.settings/
+bin/
+facades/PC/Terasology.launch
+
+# Ignore Linux
+*.directory
